@@ -7191,14 +7191,7 @@ CCTV5+,http://222.140.17.41:8888/hls/16/index.m3u8
 新疆卫视,http://live1.hrtn.net/live/xjws_1000.m3u8?auth_key=1761272311-a811d955c500cb0aacc73633c30c9258-0-416227ceb26f39cd23643b8c859eecf7
 西藏卫视,http://live1.hrtn.net/live/xzws_1000.m3u8?auth_key=1761272311-e35e7b511ea87a7563898d0a52cc742f-0-294bac34f0eff36a31c025906dd24011
 兵团卫视,http://live1.hrtn.net/live/btws_1000.m3u8?auth_key=1761272311-6ae6f0b3e1cced92a823f75d2844292e-0-4fbd4369f4e45134edbe94f51246a830
-四川卫视,http://122.114.131.154:4007/hls/30/index.m3u8
-贵州卫视,http://122.114.131.154:4007/hls/31/index.m3u8
 山东卫视,http://122.114.131.154:4007/hls/32/index.m3u8
-广东卫视,http://122.114.131.154:4007/hls/33/index.m3u8
-广西卫视,http://122.114.131.154:4007/hls/34/index.m3u8
-深圳卫视,http://122.114.131.154:4007/hls/35/index.m3u8
-黑龙江卫视,http://122.114.131.154:4007/hls/36/index.m3u8
-湖北卫视,http://122.114.131.154:4007/hls/37/index.m3u8
 湖北卫视,http://live1.hrtn.net/live/hbwshd_3000.m3u8?auth_key=1761202240-221ba1386254f5cc13353b7da28664af-0-7e102ed95cb58ebbb03f7b9e5c2e4742
 湖南卫视,http://live1.hrtn.net/live/hnwshd_3000.m3u8?auth_key=1761202240-09fffd32c2f6fd752952b5c174542414-0-291cdd8967b6575ac1cdba022eb69997
 东方卫视,http://live1.hrtn.net/live/dfwshd_3000.m3u8?auth_key=1761202240-4ccee7e9ce076672572de10b3f3820f5-0-fc68fd8e3476d48dd78277b10f98f9c9
@@ -20439,6 +20432,22 @@ CCTV-15 音乐,http://123.14.250.148:8888/hls/15/index.m3u8
 河南文物宝库,http://123.14.250.148:8888/hls/26/index.m3u8
 河南新农村,http://123.14.250.148:8888/hls/24/index.m3u8
 河南武术世界,http://123.14.250.148:8888/hls/27/index.m3u8
+吉林卫视,http://122.114.131.154:4007/hls/45/index.m3u8
+四川卫视,http://122.114.131.154:4007/hls/30/index.m3u8
+天津卫视,http://122.114.131.154:4007/hls/44/index.m3u8
+山东卫视,http://122.114.131.154:4007/hls/39/index.m3u8
+广东卫视,http://122.114.131.154:4007/hls/33/index.m3u8
+广西卫视,http://122.114.131.154:4007/hls/34/index.m3u8
+江西卫视,http://122.114.131.154:4007/hls/42/index.m3u8
+河南卫视,http://122.114.131.154:4007/hls/40/index.m3u8
+深圳卫视,http://122.114.131.154:4007/hls/35/index.m3u8
+湖北卫视,http://122.114.131.154:4007/hls/37/index.m3u8
+甘肃卫视,http://122.114.131.154:4007/hls/43/index.m3u8
+贵州卫视,http://122.114.131.154:4007/hls/31/index.m3u8
+重庆卫视,http://122.114.131.154:4007/hls/38/index.m3u8
+陕西卫视,http://122.114.131.154:4007/hls/41/index.m3u8
+黑龙江卫视,http://122.114.131.154:4007/hls/36/index.m3u8
+炫动卡通,http://122.114.131.154:4007/hls/32/index.m3u8
 CCTV-1 综合,http://222.137.172.146:8888/hls/1/index.m3u8
 CCTV-2 财经,http://222.137.172.146:8888/hls/2/index.m3u8
 CCTV-3 综艺,http://222.137.172.146:8888/hls/3/index.m3u8
